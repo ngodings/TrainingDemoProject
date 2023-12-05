@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recaptcha requires verification. Im not a robotreCAPTCHAPrivacy - Terms</name>
+   <tag></tag>
+   <elementGuidId>9daa3554-05a7-41d7-a424-00453511114f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-anchor-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rc-anchor-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fc199dce-4ca6-4e77-ac6b-421b384c3bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rc-anchor-container</value>
+      <webElementGuid>593a182a-0f42-4d9b-a2e1-95edc5961f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-anchor rc-anchor-normal rc-anchor-light</value>
+      <webElementGuid>a464566c-f2fe-40fa-93ec-e8282fd7f807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recaptcha requires verification. I'm not a robotreCAPTCHAPrivacy - Terms</value>
+      <webElementGuid>bed0174b-3e0a-4852-a00d-cd6973a83e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-anchor-container&quot;)</value>
+      <webElementGuid>455296a1-9ee5-4ab2-9bb8-f4927a5166bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BATPay Merchant/iframe_Harap melakukan verifikasi reCAPTCHA_a-2g2vsk64hz7g</value>
+      <webElementGuid>df1b9d88-f0a4-4b2d-a5c1-466546c0c7cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='rc-anchor-container']</value>
+      <webElementGuid>4ca982eb-4e09-4467-8fd7-587e6a7dec30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>6bbe84ec-1d2d-4f87-bc26-9b676c49be85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'rc-anchor-container' and (text() = concat(&quot;Recaptcha requires verification. I&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;) or . = concat(&quot;Recaptcha requires verification. I&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;))]</value>
+      <webElementGuid>81da6a43-125b-4c8a-b6b6-512205653eaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

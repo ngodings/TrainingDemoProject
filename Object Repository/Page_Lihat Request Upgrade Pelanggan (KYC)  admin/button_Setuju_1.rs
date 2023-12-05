@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Setuju_1</name>
+   <tag></tag>
+   <elementGuidId>9b34f744-5e65-49b3-8972-16d85520096e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.swal-button.swal-button--confirm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e42f968-feed-4e75-a60f-21326c9cd097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal-button swal-button--confirm</value>
+      <webElementGuid>6339464c-10fa-4223-b5b1-6b6850b6aa87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setuju</value>
+      <webElementGuid>f23ff7d4-1a17-4ca7-bf50-28a30164c861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-footer&quot;]/div[@class=&quot;swal-button-container&quot;]/button[@class=&quot;swal-button swal-button--confirm&quot;]</value>
+      <webElementGuid>327f7222-6bcf-49fe-b1e9-924b9ad1dfd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button</value>
+      <webElementGuid>2d821dee-e852-4420-a9f0-8640c3d65703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Setuju' or . = 'Setuju')]</value>
+      <webElementGuid>1b5f9cc6-63ab-468b-b297-b29cfd641ccc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

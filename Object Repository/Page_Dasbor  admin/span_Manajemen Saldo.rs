@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manajemen Saldo</name>
+   <tag></tag>
+   <elementGuidId>b66c1b83-d0bb-45f2-bbef-e3b05d2e95e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[5]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cee5ffe1-235d-441a-9db6-79cccf737381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manajemen Saldo</value>
+      <webElementGuid>c69df3c0-83c4-4283-b4f0-f10a6655a68c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;sidebar bg-sidebar&quot;]/nav[@class=&quot;sidebar-nav overflow-hidden ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[2]</value>
+      <webElementGuid>51815240-298d-4126-b9ee-0b3ad56139db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span[2]</value>
+      <webElementGuid>83f9774c-1202-4a1d-b209-ad3100dbcd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manajemen Saldo' or . = 'Manajemen Saldo')]</value>
+      <webElementGuid>5e1b4170-0056-438e-b6fe-fe34c21620c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

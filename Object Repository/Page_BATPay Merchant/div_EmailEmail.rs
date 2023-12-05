@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailEmail</name>
+   <tag></tag>
+   <elementGuidId>f033fec0-124a-41d1-9b0b-946c0a4e0ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input.v-input--horizontal.v-input--density-default.v-text-field.v-text-field--flush-details.py-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb8ab3e1-b853-4ed7-84bf-5a354720af88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input v-input--horizontal v-input--density-default v-text-field v-text-field--flush-details py-2</value>
+      <webElementGuid>3d9e4ad9-5aa6-4e09-a750-3cc831dcf8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailEmail</value>
+      <webElementGuid>569b7575-963e-4ec1-8a7d-1c167f450299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-container&quot;]/div[@class=&quot;v-responsive&quot;]/div[@class=&quot;v-responsive__content&quot;]/div[@class=&quot;text-center mt-10 px-10&quot;]/form[@class=&quot;v-form px-5 mt-5&quot;]/div[1]/div[@class=&quot;v-input v-input--horizontal v-input--density-default v-text-field v-text-field--flush-details py-2&quot;]</value>
+      <webElementGuid>7067dea2-08ad-46e1-8fef-93dfb27525de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/form/div/div</value>
+      <webElementGuid>69824c83-81ca-42ab-bd80-f761593221bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>a22d6936-0fb6-46e5-90fe-0724c1a5bcab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailEmail' or . = 'EmailEmail')]</value>
+      <webElementGuid>d88385b3-8549-4459-9204-c389c537d483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

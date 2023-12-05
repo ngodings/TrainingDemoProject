@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Submit Approval Sukses</name>
+   <tag></tag>
+   <elementGuidId>a8c64f56-8c87-4882-a519-387cc07fe554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swal-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>914e2d12-5739-44ac-bbd0-c4f67b899d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal-text</value>
+      <webElementGuid>abc32083-c562-433e-a6b6-ff9185df3022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Approval Sukses</value>
+      <webElementGuid>514ce6b9-6d22-49b1-a01b-4fb04444f3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pace-done pace-running app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-text&quot;]</value>
+      <webElementGuid>b9637018-88bb-4eed-bc5c-9e5ba0136bb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]</value>
+      <webElementGuid>6a4353c0-ddf6-4123-8ac0-e72800b119d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Submit Approval Sukses' or . = 'Submit Approval Sukses')]</value>
+      <webElementGuid>d6b87de3-7147-40aa-8d65-2d8f82fba9b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

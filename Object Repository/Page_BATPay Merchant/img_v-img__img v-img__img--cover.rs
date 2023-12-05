@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_v-img__img v-img__img--cover</name>
+   <tag></tag>
+   <elementGuidId>6a68047b-e394-4dda-82de-b7640fc0dc67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.v-img__img.v-img__img--cover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>58cc6f0e-cda2-430c-a1b3-dadcc2e5588a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-img__img v-img__img--cover</value>
+      <webElementGuid>79f526b6-479a-4ef0-8be1-f7d7cb3a0dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/logo.a52ff010.svg</value>
+      <webElementGuid>bbe4ea21-24fe-4ab4-be28-92a494fea16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-container px-lg-0&quot;]/div[@class=&quot;v-responsive&quot;]/div[@class=&quot;v-responsive__content&quot;]/div[@class=&quot;d-flex justify-space-between pa-5&quot;]/div[@class=&quot;px-2&quot;]/div[@class=&quot;v-responsive v-img mx-auto&quot;]/img[@class=&quot;v-img__img v-img__img--cover&quot;]</value>
+      <webElementGuid>6a99055d-a5c9-445e-a903-59d44b397588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/img</value>
+      <webElementGuid>e0c2f207-ceff-4e5b-bcd4-3e947e601e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>4c740feb-d2a6-4ba1-a20a-c2ed7b46ad0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/logo.a52ff010.svg']</value>
+      <webElementGuid>58ec711a-527e-45db-917b-a1d3dbdea7d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

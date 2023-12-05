@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Silakan isi Komentar</name>
+   <tag></tag>
+   <elementGuidId>1abab1af-931c-43af-bec6-5fdf4f9ed41e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='approval-form']/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f4ec8d3-9ca1-4a32-8cd5-199b22de49ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>note-placeholder</value>
+      <webElementGuid>876a5baa-6043-4125-bd68-fda9aa164549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silakan isi Komentar</value>
+      <webElementGuid>95f987ca-8e52-442e-a1a9-6800455e2f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approval-form&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;note-editor note-frame panel panel-default&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-placeholder&quot;]</value>
+      <webElementGuid>a0fefddf-746b-4525-a0f1-c240ff0b2cb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='approval-form']/div/div/div[3]/div</value>
+      <webElementGuid>fdd02486-c9c7-4080-b6a8-d8aaeadc3d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>e3d244f2-e8c7-4b0b-8977-9ba4273215fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silakan isi Komentar' or . = 'Silakan isi Komentar')]</value>
+      <webElementGuid>2e6af6f6-b8e7-4a4b-b42c-8e8a84ce632e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

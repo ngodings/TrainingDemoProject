@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Salah Satu --              _1a664b</name>
+   <tag></tag>
+   <elementGuidId>8c4840d1-89f4-44c2-8d6e-75abd5e653f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#risk_level</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='risk_level']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>97daab9f-b1c5-4cdc-bcde-a9c338779d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>risk_level</value>
+      <webElementGuid>08727af4-95f3-42c0-9f5f-bd777de0d3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is-invalid</value>
+      <webElementGuid>b22896c9-140c-4133-af7e-dea6ae4e4c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>risk_level</value>
+      <webElementGuid>92bc1117-4240-4b21-964b-fe21262dc3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        -- Pilih Salah Satu --
+                                                                                    Low
+                                                                                    Medium
+                                                                                    High
+                                                                            </value>
+      <webElementGuid>19ea8db8-cbb7-4f86-8a20-9d4ec6ddf49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;risk_level&quot;)</value>
+      <webElementGuid>0563830e-6548-4659-9744-ca293fe2a7b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='risk_level']</value>
+      <webElementGuid>97e33056-a603-49a0-a406-4ebd6a4fe802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='approval-form']/div/select</value>
+      <webElementGuid>dede91ee-f579-43b5-babd-f72d2153105b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8c6224a4-119e-4242-981e-031f7e3a86c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'risk_level' and @name = 'risk_level' and (text() = '
+                                        -- Pilih Salah Satu --
+                                                                                    Low
+                                                                                    Medium
+                                                                                    High
+                                                                            ' or . = '
+                                        -- Pilih Salah Satu --
+                                                                                    Low
+                                                                                    Medium
+                                                                                    High
+                                                                            ')]</value>
+      <webElementGuid>5ae4aaf9-4045-45ee-9e90-05dd77246348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

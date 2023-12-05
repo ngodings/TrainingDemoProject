@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ya</name>
+   <tag></tag>
+   <elementGuidId>9d633962-69d6-4635-b0a7-c5106d49324a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.swal-button.swal-button--confirm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>811fe4a9-8991-4933-bb8a-7b3184c51938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal-button swal-button--confirm</value>
+      <webElementGuid>49a9e896-2442-474c-b2de-e1ac3f6f9fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya</value>
+      <webElementGuid>a8930684-1160-4001-ac3a-06c87fe80b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pace-done pace-running app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-footer&quot;]/div[@class=&quot;swal-button-container&quot;]/button[@class=&quot;swal-button swal-button--confirm&quot;]</value>
+      <webElementGuid>4a9f99fe-5fdf-4915-b111-8bfa4c7093ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>ce87d470-e4b3-42e3-8dc8-761788bb06f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>d1ec66cd-ae8e-4e14-a096-ef5477e13a71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
