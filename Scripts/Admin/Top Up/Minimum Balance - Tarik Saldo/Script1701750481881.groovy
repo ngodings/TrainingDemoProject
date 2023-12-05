@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def noReference = '342-XSM-291'
+def noReference = 'WRP-XSM-291'
 
-def phone = '087779668261'
+def phone = '087779668262'
 
-def saldo = '10000'
+def saldo = '9999'
 
 WebUI.openBrowser('')
 
@@ -57,33 +57,6 @@ WebUI.uploadFile(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  
 
 WebUI.click(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin/button_Lanjut'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin/button_Ya'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/img_img-avatar'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/a_Keluar'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'lala_hf@batpay.id')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk  admin/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.click(findTestObject('Object Repository/Page_Masuk  admin/button_Masuk'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/a_8                        Manajemen Saldo'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), noReference)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/td_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_btn btn-sm btn-success mr-2'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_Konfirmasi (1)'))
-
-WebUI.delay(2)
+WebUI.verifyTextPresent("Jumlah topup minimum Rp 10.000", false)
 
 WebUI.closeBrowser()
-

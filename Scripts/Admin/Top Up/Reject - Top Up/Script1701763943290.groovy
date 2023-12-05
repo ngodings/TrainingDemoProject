@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def noReference = '342-XSM-291'
+def noReference = '342-XSM-234'
 
 def phone = '087779668261'
 
@@ -79,11 +79,24 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Manajemen Saldo  admin/inp
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/td_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_btn btn-sm btn-success mr-2'))
+WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_Aksi_btn btn-sm btn-danger mr-2') )
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Manajemen Saldo  admin/textarea_Komentar_remark'), 'batal')
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_Konfirmasi (1)'))
 
-WebUI.delay(2)
+WebUI.delay(1)
+
+WebUI.click( findTestObject('Object Repository/Page_Manajemen Saldo  admin/a_Status') )
+
+WebUI.click( findTestObject('Object Repository/Page_Manajemen Saldo  admin/li_Tolak'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), noReference)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), Keys.chord(Keys.ENTER))
+
+WebUI.delay(1)
+
+WebUI.verifyTextPresent("Tolak", false)
 
 WebUI.closeBrowser()
-
