@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Besar (Omzet Rp50 Milyar per tahun)</name>
+   <tag></tag>
+   <elementGuidId>5acb986f-7440-4dff-b884-788fa2156947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b170f9d-6b2a-4d01-ab9d-554d69921cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item v-list-item--link v-theme--light v-list-item--density-default v-list-item--one-line v-list-item--variant-text</value>
+      <webElementGuid>629a7dcf-9114-4d90-baa3-a7b00e74254c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>10eb4051-510b-47cf-80e7-9adc9661310a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Besar (Omzet >Rp50 Milyar per tahun)</value>
+      <webElementGuid>f6744eda-9821-4e46-897d-7222551b072a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--absolute v-overlay--active v-theme--light v-locale--is-ltr v-menu&quot;]/div[@class=&quot;v-overlay__content v-select__content&quot;]/div[@class=&quot;v-list v-theme--light v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--light v-list-item--density-default v-list-item--one-line v-list-item--variant-text&quot;]</value>
+      <webElementGuid>e510f1e5-6b78-4634-8691-7fc35e1c86e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[4]</value>
+      <webElementGuid>6e8dd246-1e68-4e1a-a4c3-487e2250ddca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Besar (Omzet >Rp50 Milyar per tahun)' or . = 'Besar (Omzet >Rp50 Milyar per tahun)')]</value>
+      <webElementGuid>0420bfed-3cde-4280-84cc-ad763a06c028</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_54317</name>
+   <tag></tag>
+   <elementGuidId>f14952c3-b96f-49c4-b2b4-2474b914e922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '54317' or . = '54317')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--absolute v-overlay--active v-theme--light v-locale--is-ltr v-menu&quot;]/div[@class=&quot;v-overlay__content v-autocomplete__content&quot;]/div[@class=&quot;v-list v-theme--light v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--light v-list-item--density-default v-list-item--one-line v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-list-item-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>120d48b6-14ae-47d3-88e2-0484c42fd7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>0022318d-2a34-4cc9-884a-bc03a734e6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>54317</value>
+      <webElementGuid>417d0604-a836-49c0-95a5-9556e5b95709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--absolute v-overlay--active v-theme--light v-locale--is-ltr v-menu&quot;]/div[@class=&quot;v-overlay__content v-autocomplete__content&quot;]/div[@class=&quot;v-list v-theme--light v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--light v-list-item--density-default v-list-item--one-line v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      <webElementGuid>9f6ab123-c275-4ad8-904c-85824e5d5bd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>5c29b9b2-fd81-4d3a-9585-e054495209e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '54317' or . = '54317')]</value>
+      <webElementGuid>505acd42-0b4f-4753-9264-1182978815f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

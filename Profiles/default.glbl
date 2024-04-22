@@ -14,4 +14,9 @@
       <initValue>'https://sb-batpanel.batpay.id/'</initValue>
       <name>BatpanelUrl</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\RMA\\Downloads\\batpay-version-1.0.0-debug.apk'</initValue>
+      <name>PathAPK</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

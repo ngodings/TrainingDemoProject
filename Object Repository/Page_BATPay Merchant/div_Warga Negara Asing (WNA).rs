@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Warga Negara Asing (WNA)</name>
+   <tag></tag>
+   <elementGuidId>f4dfa670-8f15-4bfe-b21a-92c2775a9633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b40749d-c5c8-4458-b1e0-bc8e88304401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>33aa5f46-56b4-4287-8553-274e5bf5b962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Warga Negara Asing (WNA)</value>
+      <webElementGuid>dfe5eef1-265d-4292-831e-1461bf1e3a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--absolute v-overlay--active v-theme--light v-locale--is-ltr v-menu&quot;]/div[@class=&quot;v-overlay__content v-select__content&quot;]/div[@class=&quot;v-list v-theme--light v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--light v-list-item--density-default v-list-item--one-line v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      <webElementGuid>7b9275ad-002f-46de-8245-047ef60b80f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d85424e9-1750-4498-8c41-6fb700ed1148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Warga Negara Asing (WNA)' or . = 'Warga Negara Asing (WNA)')]</value>
+      <webElementGuid>232905a6-a664-42ac-9bcd-ce224f878a97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Konfirmasi</name>
+   <tag></tag>
+   <elementGuidId>86776500-785a-4188-82e5-8eb49b63f677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5d52e60d-b74f-44ba-bf4f-24294f68169d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a85e2dbc-ea7a-4658-b99c-14b51f131096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-theme--light v-btn--density-default v-btn--size-default v-btn--variant-text dialog-button text-capitalize</value>
+      <webElementGuid>af6d9347-0246-49a5-aacc-c73cd5334a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konfirmasi </value>
+      <webElementGuid>f3e8d3bb-0d0e-4167-bdb6-65c046e45da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated v-overlay-scroll-blocked&quot;]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--active v-theme--light v-locale--is-ltr v-dialog v-overlay--scroll-blocked&quot;]/div[@class=&quot;v-overlay__content&quot;]/div[@class=&quot;v-card v-theme--light v-card--density-default v-card--variant-elevated rounded-lg&quot;]/div[@class=&quot;v-card-text&quot;]/div[@class=&quot;my-2 d-flex justify-end color-primary-600&quot;]/button[@class=&quot;v-btn v-theme--light v-btn--density-default v-btn--size-default v-btn--variant-text dialog-button text-capitalize&quot;]</value>
+      <webElementGuid>a8539eb1-30cb-4cfa-8cd8-eac1f0d0ad3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>af55331b-fbc8-4ee9-93e0-7e1c0f5a5895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>bccdce0c-e7fa-4ade-b28c-415611ad2fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Konfirmasi ' or . = 'Konfirmasi ')]</value>
+      <webElementGuid>da9d698c-1caa-417f-9043-18a8cf975e59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

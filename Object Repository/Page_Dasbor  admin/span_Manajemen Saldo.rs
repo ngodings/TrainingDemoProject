@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[5]/a/span[2]</value>
+         <value>/html/body/div/div/nav/ul/li[5]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>cee5ffe1-235d-441a-9db6-79cccf737381</webElementGuid>
+      <webElementGuid>f9836d4d-c1eb-467e-9bf7-fbd5f3fa1169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manajemen Saldo</value>
-      <webElementGuid>c69df3c0-83c4-4283-b4f0-f10a6655a68c</webElementGuid>
+      <webElementGuid>5d1d29c3-1ebc-4b31-a97c-df6ac5dbe79d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;sidebar bg-sidebar&quot;]/nav[@class=&quot;sidebar-nav overflow-hidden ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[2]</value>
-      <webElementGuid>51815240-298d-4126-b9ee-0b3ad56139db</webElementGuid>
+      <webElementGuid>754462bf-3ac9-48f0-8e87-f7a437d34df7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/span[2]</value>
-      <webElementGuid>83f9774c-1202-4a1d-b209-ad3100dbcd45</webElementGuid>
+      <webElementGuid>7aa5a620-d84d-4d89-9161-04c841f9b6a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +53,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Manajemen Saldo' or . = 'Manajemen Saldo')]</value>
-      <webElementGuid>5e1b4170-0056-438e-b6fe-fe34c21620c1</webElementGuid>
+      <webElementGuid>f1b5aece-8d87-4ded-b6b8-7ae10d13a15a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

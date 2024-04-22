@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Setuju</name>
+   <tag></tag>
+   <elementGuidId>89d42d0b-bd5f-4860-9474-64488345472a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='approve']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;approve&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e146043a-6f22-47b0-9542-75fff5e8a335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-approve mb-2</value>
+      <webElementGuid>ee454543-26dc-45c4-b072-ca85b42005b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>approve</value>
+      <webElementGuid>7a33a11e-dc2f-4301-9c9b-2c61930d6572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                
+                                Setuju
+                            </value>
+      <webElementGuid>50ae96a1-8da5-4580-b7f8-c1fb240babee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approval-form&quot;)/div[@class=&quot;my-2&quot;]/button[@class=&quot;btn btn-success btn-approve mb-2&quot;]</value>
+      <webElementGuid>86725633-3eb4-408f-b9f8-6482d697e157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='approve']</value>
+      <webElementGuid>46f29519-6dc8-41ad-87d4-637d93e154bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='approval-form']/div[2]/button</value>
+      <webElementGuid>89b85955-c42f-4658-bba9-aaca6543c591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>e282446b-3ae7-4bdb-b53c-9cc0980d447a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'approve' and (text() = '
+                                
+                                Setuju
+                            ' or . = '
+                                
+                                Setuju
+                            ')]</value>
+      <webElementGuid>a5807827-53b3-486b-aff1-0722f62c27a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

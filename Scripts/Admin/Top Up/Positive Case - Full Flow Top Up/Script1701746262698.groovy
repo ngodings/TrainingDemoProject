@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def noReference = '342-XSM-291'
+def noReference = '323-XRM-329'
 
-def phone = '087779668261'
+def phone = '087779668268'
 
-def saldo = '10000'
+def saldo = '1000000'
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.BatpanelUrl)
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'lala_fi@batpay.id')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'finance@batpay.id')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk  admin/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
@@ -65,13 +65,13 @@ WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/img_im
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/a_Keluar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'lala_hf@batpay.id')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'headfinance@batpay.id')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk  admin/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/Page_Masuk  admin/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/a_8                        Manajemen Saldo'))
+WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/span_Manajemen Saldo'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), noReference)
 

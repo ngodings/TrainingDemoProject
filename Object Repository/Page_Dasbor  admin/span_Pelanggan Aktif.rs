@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pelanggan Aktif</name>
+   <tag></tag>
+   <elementGuidId>ccb1f485-c749-4b9e-8e45-3e4d079334e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[4]/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a1d559b-4a88-45e7-828c-b95b904de66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pelanggan Aktif</value>
+      <webElementGuid>fd667a45-fa9a-4410-b5ea-101f2df65126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;sidebar bg-sidebar&quot;]/nav[@class=&quot;sidebar-nav overflow-hidden ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item nav-dropdown open&quot;]/ul[@class=&quot;nav-dropdown-items&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[2]</value>
+      <webElementGuid>0a287859-a449-44bb-8665-3b65de560d6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a/span[2]</value>
+      <webElementGuid>72730315-a9bb-4e33-915e-a7185fc6ecbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pelanggan Aktif' or . = 'Pelanggan Aktif')]</value>
+      <webElementGuid>d9e4dcc1-d993-4d0d-993a-b0456082b86b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setuju</name>
+   <tag></tag>
+   <elementGuidId>42e0e438-6340-4a26-b185-8e29b6f4d381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='approveEntry(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55ecb749-7341-4bdf-b854-ca29426f19a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>207837a3-5ce8-4c48-9538-50d3cc12bdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>approveEntry(this)</value>
+      <webElementGuid>76e34b74-ea9e-4552-80a6-c8cca8e92235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-route</name>
+      <type>Main</type>
+      <value>https://batpanel.batpay.id/request-close-account/9/approved</value>
+      <webElementGuid>2fa467fb-e8a3-43dc-ad36-1dfc11f7b80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>b3c2572b-d0b0-457c-b914-3dadd8d46713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-type</name>
+      <type>Main</type>
+      <value>approve</value>
+      <webElementGuid>6324da18-d902-4763-94e9-218289392523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        Setuju
+    </value>
+      <webElementGuid>aeed0180-aa90-4fda-9c6c-db1d3bf646c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main pt-2&quot;]/div[@class=&quot;container-fluid animated fadeIn&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[1]/div[@class=&quot;card no-padding no-border mb-0&quot;]/table[@class=&quot;table table-striped m-0 p-0&quot;]/tbody[1]/tr[16]/td[2]/a[@class=&quot;btn btn-sm btn-success&quot;]</value>
+      <webElementGuid>e04919ab-1848-4f65-90cb-41a472b59519</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='approveEntry(this)']</value>
+      <webElementGuid>91e40697-b896-46e5-801c-a3e4a336e732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>28778061-9593-43a2-9856-a4df17a9d830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[2]/a</value>
+      <webElementGuid>2f4ba25f-28e9-4374-a7df-6ea27042e5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = '
+        
+        Setuju
+    ' or . = '
+        
+        Setuju
+    ')]</value>
+      <webElementGuid>1cf927c2-9c46-451e-becc-cc4736d596bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

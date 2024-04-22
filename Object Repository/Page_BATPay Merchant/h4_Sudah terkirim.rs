@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Sudah terkirim</name>
+   <tag></tag>
+   <elementGuidId>3bc32408-6f6b-4c87-bbda-e514cb5a31aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>e671a3df-da39-41a8-9fb6-bdcb74558711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sudah terkirim</value>
+      <webElementGuid>a2519add-50a2-4053-a727-ee32e9885e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-container h-screen&quot;]/div[@class=&quot;v-responsive h-100 align-center&quot;]/div[@class=&quot;v-responsive__content&quot;]/div[@class=&quot;text-center px-10 px-lg-0 mb-0&quot;]/h4[1]</value>
+      <webElementGuid>888ea9d3-3141-4e3e-8232-4ee1996cb7ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/h4</value>
+      <webElementGuid>16eb64f7-bb01-467d-88fb-68530a2c8126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>a50647b5-f584-438a-9e66-b8f00d9a27c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Sudah terkirim' or . = 'Sudah terkirim')]</value>
+      <webElementGuid>ded8316e-5495-4d6c-a177-a4291343bd9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

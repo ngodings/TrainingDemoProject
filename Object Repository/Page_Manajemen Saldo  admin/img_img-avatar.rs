@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@alt='Rike - Staff Finance']</value>
+         <value>/html/body/header/ul[2]/li/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7536894f-9084-44b0-9deb-5804b33b2cea</webElementGuid>
+      <webElementGuid>559fe44b-291e-463d-aeb1-55b6b822f805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>img-avatar</value>
-      <webElementGuid>5d17da3b-a9bf-4b06-b87f-369478f8ed0b</webElementGuid>
+      <webElementGuid>62fcdb6c-09fe-4d9c-9da1-5c50b8e5760f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://www.gravatar.com/avatar/efef0e95603dc8d5fb26e1f1f1ffb9a8.jpg?s=80&amp;d=blank&amp;r=g</value>
-      <webElementGuid>0eedef54-e56f-41dc-bc95-7ca1acb12b57</webElementGuid>
+      <webElementGuid>199a9fce-ef8f-4289-8a94-20955e4e38af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Rike - Staff Finance</value>
-      <webElementGuid>7e9e5e86-62e9-4a2a-9a31-be76a04d2b9b</webElementGuid>
+      <webElementGuid>53bd0898-2fb5-40e5-8040-fe770b73bfa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onerror</name>
       <type>Main</type>
       <value>this.style.display='none'</value>
-      <webElementGuid>24df2e4b-a576-45b4-a303-bc8beb22127e</webElementGuid>
+      <webElementGuid>e95304cd-b39f-49e4-9e55-bfd4711b4e5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;pace-done pace-done pace-running app aside-menu-fixed sidebar-lg-show&quot;]/header[@class=&quot;app-header navbar navbar-color bg-header border-0&quot;]/ul[@class=&quot;nav navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item dropdown pr-4&quot;]/a[@class=&quot;nav-link&quot;]/img[@class=&quot;img-avatar&quot;]</value>
-      <webElementGuid>6fde3cf5-23b7-4bcd-ae8f-235b4fdb136c</webElementGuid>
+      <webElementGuid>232b6536-8e3f-401e-aeb8-2f4c940b3288</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Rike - Staff Finance']</value>
-      <webElementGuid>dcad76f5-224d-4664-bfba-70ab651f5cc6</webElementGuid>
+      <webElementGuid>c81ea595-211e-4ddd-be21-9d2bec72614d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a/img</value>
-      <webElementGuid>fa66fd0c-caf8-4624-811d-f0ebee505d5b</webElementGuid>
+      <webElementGuid>7ac099b3-ef90-4767-823e-d5ceb4b01597</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://www.gravatar.com/avatar/efef0e95603dc8d5fb26e1f1f1ffb9a8.jpg?s=80&amp;d=blank&amp;r=g' and @alt = 'Rike - Staff Finance']</value>
-      <webElementGuid>256a6432-44ca-4db1-998c-ae9e1d19e5f2</webElementGuid>
+      <webElementGuid>68731f6f-ed5f-4ea0-8ba8-ec20ebb03444</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

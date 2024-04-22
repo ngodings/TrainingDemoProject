@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dengan menyetujui permintaan penutupan akun, pengguna tidak dapat mengakses akun selamanya</name>
+   <tag></tag>
+   <elementGuidId>13fd7c7e-9b02-4ab4-965a-43e361c3bcb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swal-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8344b5ef-c515-4389-ba2c-a9427882af2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal-text</value>
+      <webElementGuid>fe72480f-e9e9-48a6-9230-1aeeb857e5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan menyetujui permintaan penutupan akun, pengguna tidak dapat mengakses akun selamanya</value>
+      <webElementGuid>00342134-83b2-4899-9b2e-30092eb42026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-text&quot;]</value>
+      <webElementGuid>d84250db-8036-4416-8085-f578529cd3eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]</value>
+      <webElementGuid>3c0d1d5b-20cf-4a99-a484-e17b241f6506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dengan menyetujui permintaan penutupan akun, pengguna tidak dapat mengakses akun selamanya' or . = 'Dengan menyetujui permintaan penutupan akun, pengguna tidak dapat mengakses akun selamanya')]</value>
+      <webElementGuid>16d6ee16-9246-4610-a429-df862baaf442</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

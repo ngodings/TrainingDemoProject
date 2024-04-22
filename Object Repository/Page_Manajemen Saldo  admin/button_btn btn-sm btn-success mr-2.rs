@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[10]</value>
+         <value>/html/body/div[4]/div/div/div[2]/table/tbody/tr[9]/td[2]/button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>33d16893-c15a-4c76-9b46-d7ab3d26d1cb</webElementGuid>
+      <webElementGuid>5b174a8b-6ac1-44ec-955b-0aa5514e2bb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>21bbd36e-1a8c-4ef8-a9a8-2c473b9feec1</webElementGuid>
+      <webElementGuid>45848770-dc7b-4829-a69d-90f7d9cd8917</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-target-id</name>
       <type>Main</type>
       <value>68</value>
-      <webElementGuid>0f9ac288-68e6-42c6-8714-dd6282e64c6e</webElementGuid>
+      <webElementGuid>a1c3e5e1-3aae-410a-8d60-74bcd4997322</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-step</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>d6eb8eb3-1ce2-4c02-b14d-ab9616beff2a</webElementGuid>
+      <webElementGuid>8dc7481f-0362-4b79-ab4b-c7f13a9c0c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-approval-flow-detail-id</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>40af73e3-8c74-4666-a8cc-10283b7efd6a</webElementGuid>
+      <webElementGuid>5d5b5545-eeea-4d9a-b7de-b4c51f06807e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-module-approval-flow-id</name>
       <type>Main</type>
       <value>235</value>
-      <webElementGuid>20789833-2bd1-45de-89b0-83fb45ba468c</webElementGuid>
+      <webElementGuid>54f95c81-2f3d-41ea-8908-9aa2318f87c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-status</name>
       <type>Main</type>
       <value>approve</value>
-      <webElementGuid>5b495ad3-7755-4cee-bcbb-2e2d367eff0b</webElementGuid>
+      <webElementGuid>5ad1dfdc-8dc0-466a-abb9-bd9216f8f1fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-attachment-action</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>c32f0fa8-b1df-4f33-973b-0f1ad6c7498a</webElementGuid>
+      <webElementGuid>84da266f-6e06-481c-9991-5eaf3e78af9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-using-attachment</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>919ffe27-1c02-46a7-bd4e-477e5248d87d</webElementGuid>
+      <webElementGuid>5065f2bf-0564-424a-98a2-76b9d41c946f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-attachment-mandatory</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>b34dcf91-e8ed-496a-b0c5-1e426a151e79</webElementGuid>
+      <webElementGuid>20e83be1-3a95-428e-ab65-628f06a12b0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>btn-approval</value>
-      <webElementGuid>e4a24928-1d18-45cb-bcaf-8382a9a335b5</webElementGuid>
+      <webElementGuid>2ec9851e-c5e5-4b55-a02b-4f806a136e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-success mr-2</value>
-      <webElementGuid>f29db20e-07a6-4764-83ff-831efebe3689</webElementGuid>
+      <webElementGuid>371623a4-ad78-407d-952f-fac823fe4224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tooltip</value>
-      <webElementGuid>909a6257-2281-4294-bdfc-a728c02f3b05</webElementGuid>
+      <webElementGuid>79a10cec-b7bc-4668-ad83-8e2ee390692c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>data-placement</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>fd701acb-14e3-4480-bcd6-9b7257d3eb3a</webElementGuid>
+      <webElementGuid>c8d05587-6a1f-4f52-a724-d85785fb4768</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Setujui Pengajuan</value>
-      <webElementGuid>02fe68c8-390d-4bb7-84b9-75e067f8ebe6</webElementGuid>
+      <webElementGuid>c5220580-9f07-4172-981a-6a3a795c85a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;pace-done pace-done pace-running app aside-menu-fixed sidebar-lg-show modal-open&quot;]/div[@class=&quot;modal fade dtr-bs-modal show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/table[@class=&quot;table table-striped mb-0&quot;]/tbody[1]/tr[9]/td[2]/button[@class=&quot;btn btn-sm btn-success mr-2&quot;]</value>
-      <webElementGuid>c3a6a2e9-f9f8-4956-a34f-3547dd19f10f</webElementGuid>
+      <webElementGuid>14e3965b-37e2-497c-a981-a30b9b667755</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[10]</value>
-      <webElementGuid>634f6a9e-28b2-4c96-8e53-0a4b08d6f8ae</webElementGuid>
+      <webElementGuid>679212e9-bd5b-48fe-a32a-e5a0090765f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/button</value>
-      <webElementGuid>5f474dcd-f504-479c-8cfa-153de6758434</webElementGuid>
+      <webElementGuid>0cb26aef-4231-4481-885d-3e251ecd2958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Setujui Pengajuan']</value>
-      <webElementGuid>490edd9f-b9d8-444b-839a-f36fac834695</webElementGuid>
+      <webElementGuid>7f761dc3-0b21-41e5-9669-0c66ca49241e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

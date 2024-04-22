@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate positive case login</description>
+   <name>200-Positive-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cfacb79-0b0f-4644-b3a5-09c075c12d44</testCaseGuid>
+</TestCaseEntity>

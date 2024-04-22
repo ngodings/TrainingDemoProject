@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def noReference = '287-XSM-289'
+def noReference = '323-XRM-335'
 
-def phone = '087779668262'
+def phone = '081387178004'
 
-def saldo = '15000'
+def saldo = '200000'
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.BatpanelUrl)
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'lala_fi@batpay.id')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'finance@batpay.id')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk  admin/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
@@ -47,7 +47,7 @@ WebUI.delay(1)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin/input_select2-search__field'), phone)
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.click( findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin/li_lala') )
 
@@ -59,19 +59,19 @@ WebUI.click(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin
 
 WebUI.click(findTestObject('Object Repository/Page_Tambah Manajemen Saldo  admin/button_Ya'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/img_img-avatar'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/a_Keluar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'lala_hf@batpay.id')
+WebUI.setText(findTestObject('Object Repository/Page_Masuk  admin/input_email'), 'headfinance@batpay.id')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk  admin/input_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/Page_Masuk  admin/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/a_8                        Manajemen Saldo'))
+WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/span_Manajemen Saldo'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manajemen Saldo  admin/input_form-control'), noReference)
 
@@ -85,7 +85,7 @@ WebUI.uploadFile(findTestObject('Object Repository/Page_Manajemen Saldo  admin/d
 
 WebUI.click(findTestObject('Object Repository/Page_Manajemen Saldo  admin/button_Konfirmasi'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.closeBrowser()
 

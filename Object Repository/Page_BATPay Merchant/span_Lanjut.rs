@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>21f57edc-76bb-48a2-bf43-80aa597dc9c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-btn--block.v-theme--light.v-btn--density-default.v-btn--size-default.v-btn--variant-flat.bg-primary-500.rounded-lg.color-neutral-10.text-capitalize.my-2 > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b28639a4-757e-42c1-99bc-c7123d840f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>db994b02-ca87-425f-93fe-052862bc1553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>1a4c57db-7ab5-49e6-84a1-bd9df2c0ea66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fw_1704181635678&quot;)/div[@class=&quot;wizard-card-footer clearfix&quot;]/div[@class=&quot;wizard-footer-right full&quot;]/button[@class=&quot;v-btn v-btn--block v-theme--light v-btn--density-default v-btn--size-default v-btn--variant-flat bg-primary-500 rounded-lg color-neutral-10 text-capitalize my-2&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>1d064f1c-fedc-4ff2-88a1-92fd62fd40c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fw_1704181635678']/div[2]/div[2]/button/span[3]</value>
+      <webElementGuid>6fb766d8-a9b1-4414-8035-09a46b04eb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span[3]</value>
+      <webElementGuid>d1a7d392-f1f0-4cc9-bc18-537871156909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>8015029d-1090-4cf0-8b27-0a33d28a20a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

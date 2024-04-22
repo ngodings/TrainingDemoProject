@@ -39,8 +39,8 @@ WebUI.click(findTestObject('Object Repository/Page_Dasbor  admin/span_Request Up
 def currentTime = Calendar.getInstance()
 
 // Set the desired execution time (e.g., 10:30 AM)
-currentTime.set(Calendar.HOUR_OF_DAY, 14)
-currentTime.set(Calendar.MINUTE, 10)
+currentTime.set(Calendar.HOUR_OF_DAY, 17)
+currentTime.set(Calendar.MINUTE, 52)
 currentTime.set(Calendar.SECOND, 0)
 currentTime.set(Calendar.MILLISECOND, 0)
 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Setuju</name>
+   <tag></tag>
+   <elementGuidId>14c7e876-c579-4e70-ba6a-416685052c3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='approve']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;approve&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11c830d3-731e-4b6b-8d5b-ef53366c8dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-approve</value>
+      <webElementGuid>d2e201db-fc1f-4556-bf8a-7a06fae8a4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>approve</value>
+      <webElementGuid>4de3cb47-21cd-47f1-972f-61e153fe658d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-type</name>
+      <type>Main</type>
+      <value>approve</value>
+      <webElementGuid>9523b9aa-5073-4bbc-86a9-4b45ba9a3aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            
+                                            Setuju
+                                        </value>
+      <webElementGuid>a58d5554-327d-438d-bab3-573676069007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main pt-2&quot;]/div[@class=&quot;container-fluid animated fadeIn&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[9]/td[2]/button[@class=&quot;btn btn-success btn-approve&quot;]</value>
+      <webElementGuid>125d4e95-6fa0-4c38-a631-60aa73b84171</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='approve']</value>
+      <webElementGuid>8fa12831-f337-404d-bdb2-c32a6c6b411e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button</value>
+      <webElementGuid>fd31524e-29d8-44d8-9ba7-df71424f9009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'approve' and (text() = '
+                                            
+                                            Setuju
+                                        ' or . = '
+                                            
+                                            Setuju
+                                        ')]</value>
+      <webElementGuid>dafac29f-0032-4dd8-b137-61e1b61b14d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

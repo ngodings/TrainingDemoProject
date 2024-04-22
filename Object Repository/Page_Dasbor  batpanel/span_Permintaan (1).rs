@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Permintaan (1)</name>
+   <tag></tag>
+   <elementGuidId>0012f03b-2eca-41f0-b97b-3e772d61847a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/nav/ul/li[6]/ul/li[1]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd4c084a-1c3d-40e2-ba0d-4368cb037157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permintaan</value>
+      <webElementGuid>c072afea-4b85-4eaf-a678-22507c195670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;sidebar bg-sidebar&quot;]/nav[@class=&quot;sidebar-nav overflow-hidden ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item nav-dropdown open&quot;]/ul[@class=&quot;nav-dropdown-items&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[3]</value>
+      <webElementGuid>5c4c2692-7cc5-42e9-bd45-6cfc928967bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a/span[3]</value>
+      <webElementGuid>b2ff8d6a-f3d1-4ec2-b396-6e295365b38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Permintaan' or . = 'Permintaan')]</value>
+      <webElementGuid>85ed80a4-7e21-4ea6-b9a4-c479cfa2f297</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
